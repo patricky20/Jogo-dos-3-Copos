@@ -168,7 +168,7 @@ function draw() {
     textStyle(NORMAL);
     textSize(18);
     text(
-      "O primeiro jogador deve clicar em um \ndos três quadrados (copos) exibidos na \ntela. Em nseguida, o segundo jogador \ntenta adivinhar qual quadrado foi \nclicado. O segundo jogador vence \napenas se acertar exatamente o quadrado \nselecionado pelo primeiro jogador.",
+      "O primeiro jogador deve clicar em um \ndos três quadrados (copos) exibidos na \ntela. Em seguida, o segundo jogador \ntenta adivinhar qual quadrado foi \nclicado. O segundo jogador vence \napenas se acertar exatamente o quadrado \nselecionado pelo primeiro jogador.",
       15,
       230
     );
